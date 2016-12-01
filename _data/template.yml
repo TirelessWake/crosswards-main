@@ -8,7 +8,7 @@ color:
   secondary-dark: 333
   muted: 7b7d80
   # hover: 254,209,54,.9
-  hover: 67, 77, 60, 0.7
+  hover: 21, 165, 137, 0.7
 
 background-image:
   team/park1.jpg
