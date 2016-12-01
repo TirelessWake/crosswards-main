@@ -1,0 +1,11 @@
+---
+title: Shirts!
+subtitle: Shirt Designs
+layout: default
+modal-id: 5
+date: 2014-07-14
+img: store/shirt2.jpg
+thumbnail: store/shirt2.jpg
+alt: image-alt
+description: Yay for shirts!
+---

@@ -1,0 +1,13 @@
+---
+title: Rain or Shine
+subtitle: Pray, Train, Conquer, Repeat
+layout: default
+modal-id: 6
+date: 2014-07-15
+img: store/shirt1.png
+thumbnail: store/shirt1.png
+alt: image-alt
+project-date: April 2014
+description: Dawn to dusk, we pray, we must.
+
+---

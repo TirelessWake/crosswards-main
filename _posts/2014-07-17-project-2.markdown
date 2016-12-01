@@ -1,0 +1,12 @@
+---
+title: Standard - $650
+subtitle:  Brian's T's or Zzz's
+layout: default
+modal-id: 2
+date: 2016-11-18
+img: store/brianorange1.jpg
+thumbnail: store/brianorange2.jpg
+alt: image-alt
+description: Pro gets full-featured site with phone button or email contact form and a product portfolio section.
+
+---

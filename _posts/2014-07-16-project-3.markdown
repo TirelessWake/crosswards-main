@@ -1,0 +1,12 @@
+---
+title: Pro - $1200
+subtitle:  Send Me Three!
+layout: default
+modal-id: 3
+date: 2016-11-18
+img: store/hoody2.png
+thumbnail: store/hoody1.jpg
+alt: image-alt
+description: Pro solution adds custom layouts,  blog, and additional animations or site tuning made to order.
+
+---

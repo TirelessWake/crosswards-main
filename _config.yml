@@ -1,0 +1,65 @@
+url:
+baseurl:
+
+# Site settings
+title: Crosswards
+email: crosswards@gmail.com
+description: "Crosswards Faith Based Apparel"
+
+
+# Team names, titles and social links
+people:
+- name: Brian Packard
+  pic: frame1.jpg
+  position: Owner
+  social:
+    # - title: twitter
+    #   url: #
+    - title: facebook
+      url: https://www.facebook.com/brian.packard.31
+    # - title: stack-overflow
+    #   url: #
+
+# - name: Larry Parker
+#   pic: 2.jpg
+#   position: Lead Marketer
+#   social:
+#     - title: twitter
+#       url: #
+#     - title: facebook
+#       url: #
+#     - title: linkedin
+#       url: #
+#
+# - name: Diana Petersen
+#   pic: 3.jpg
+#   position: Lead Developer
+#   social:
+#     - title: twitter
+#       url: #
+#     - title: facebook
+#       url: #
+#     - title: google-plus
+#       url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  # - title: twitter
+  #   url: http://twitter.com/jekyllrb
+  - title: facebook
+    url: https://www.facebook.com/brian.packard.31
+  # - title: stack-overflow
+  #   url: http://stackoverflow.com/questions/tagged/jekyll
+  # - title: bitbucket
+  #   url: http://bitbucket.org/jekyll
+  # - title: github
+  #   url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Ames
+  - line: Iowa
+
+# Build settings
+markdown: kramdown
+permalink: pretty
