@@ -80,6 +80,7 @@ img: bg/1.jpg
 5. e-commerce (snipcart)
 6. Scalability in all areas
 7. Easy to teach new-hire to build previous steps!
+8. Great pricing strategies!
 
 
 ## random tips :
