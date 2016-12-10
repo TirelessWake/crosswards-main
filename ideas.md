@@ -69,8 +69,10 @@ img: bg/1.jpg
 6. [Tireless Wake](http://tirelesswake.com/)
 7. [Victory Ranch Iowa](http://victoryranchiowa.tirelesswake.com/)
 8. [Iowa Birth Org](http://iowabirth.org/home)
-9. Salt Company / Salt Network
-10. ...
+9. jujitsu ames
+10. fuzzy guitars des moines
+11. Salt Company / Salt Network
+12. ...
 
 ## Keys To Success :
 1. Flexible Web Templating System
