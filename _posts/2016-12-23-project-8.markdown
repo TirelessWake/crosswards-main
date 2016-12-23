@@ -1,0 +1,26 @@
+---
+title: Custom Verse Hoodie - Sleeve
+subtitle:  Mens Hoodie
+layout: default
+modal-id: 8
+date: 2016-12-23
+img: store/james2-17.png
+thumbnail: store/james2-17.png
+alt: image-alt
+description: Men's Hoodie w/ Custom Verse On Sleeve
+
+---
+
+<button
+    type="button"
+    class="snipcart-add-item btn btn-default"
+    data-dismiss="modal"
+    data-item-id="8"
+    data-item-name="Custom Verse Hoodie - sleeve"
+    data-item-price="40.00"
+    data-item-weight="20"
+    data-item-url="/"
+    data-item-image="/img/store/james2-17.png"
+    data-item-description="Custom Verse Hoodie - sleve">
+        Add To Cart
+</button>
