@@ -11,8 +11,8 @@ color:
   hover: 21, 165, 137, 0.7
 
 background-image:
-  12daysdec.jpg
-
+  header: 12daysdec.jpg
+  portfolio: bg/wall1.jpg
 
 
 # Font Families

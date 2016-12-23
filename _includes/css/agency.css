@@ -266,7 +266,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/{{ site.data.template.background-image }}');
+    background-image: url('{{ site.baseurl }}/img/{{ site.data.template.background-image.header }}');
     background-position: center center;
     background-repeat: none;
     background-attachment: fixed;
@@ -354,7 +354,7 @@ section h3.section-subheading {
 }
 
 #portfolio {
-  background-image: url('{{ site.baseurl }}/img/bg/wall1.jpg');
+  background-image: url('{{ site.baseurl }}/img/{{ site.data.template.background-image.portfolio }}');
   background-position: center center;
   background-repeat: none;
   background-attachment: fixed;
@@ -661,7 +661,9 @@ section h3.section-subheading {
 
 .team-member img {
     margin: 0 auto;
-    border: 7px solid #fff;
+    /*border: 7px solid #fff;*/
+    border: groove 1em #{{ site.data.template.color.primary }};
+    /*border: 7px solid #{{ site.data.template.color.primary }};*/
 }
 
 .team-member h4 {
@@ -700,10 +702,12 @@ section#contact .form-group textarea {
 
 section#contact .form-group input.form-control {
     height: auto;
+    color: #{{ site.data.template.color.primary }};
 }
 
 section#contact .form-group textarea.form-control {
     height: 236px;
+    color: #{{ site.data.template.color.primary }};
 }
 
 section#contact .form-control:focus {
