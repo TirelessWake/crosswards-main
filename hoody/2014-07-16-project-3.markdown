@@ -5,7 +5,7 @@ layout: default
 modal-id: 3
 date: 2016-12-18
 img: store/hoodie2.png
-thumbnail: store/hoodie1.png
+thumbnail: store/hoodie1.jpg
 alt: image-alt
 description:
 
